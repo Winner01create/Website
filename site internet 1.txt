@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apprendre l'anglais par l'entrepreneuriat</title>
+</head>
+<body>
+ {
+  font-family: Arial, sans-serif;
+  background-color: red and white
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+<logo png>
+    <header>
+        <h1>Bienvenue sur mon site !</h1>
+    </header>
+    <section>
+        <h2>Intoduction</h2>
+        <p>Une langue comporte une grammaire,une conjugaison,etc,...Mais ce qui est encore mieux c'est qu'une langue a 
+un vocabulaire, ainsi que des lexiques suivant des domaines bien déteminés; alors on va se focaliser sur la langue anglaise.	</p>
+        <h3>Quelques expressions</h3>
+		<p>* To seize the day:Profite du moment
+		   * To belong somewhere:Etre à sa place
+		   *Better late than never: Ne pas se fier aux apparences
+           * I worked my fingers to the bone: Travailler d'arrache pied
+           * To kill two birds with one stone :Faire d'une pierre deux coups
+           * To put the chart before the horse: Mettre la charrue avant les boeufs </p>		   
+    </section>
+    <footer>
+        <p>&copy; 2025 MonSiteWeb. Tous droits réservés.</p>
+		<div class="social-links">
+		 <a href="https://www.youtube.com/WinnerKC-y8y" target="_blank">Youtube</a> |
+</body>
+</html>
